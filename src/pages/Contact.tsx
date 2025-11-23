@@ -100,7 +100,7 @@ const Contact = () => {
               )}
 
               <form
-                action="https://formsubmit.co/hariramaninayan@gmail.com"
+                action="https://formsubmit.co/ranjithnaniramagiri@gmail.com"
                 method="POST"
                 className="space-y-6"
                 onSubmit={() => setIsSubmitted(true)}
