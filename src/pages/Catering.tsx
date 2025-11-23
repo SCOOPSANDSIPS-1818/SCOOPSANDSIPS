@@ -257,7 +257,7 @@ const Catering = () => {
             {/* Hidden FormSubmit form */}
             <form
               ref={hiddenFormRef}
-              action="https://formsubmit.co/naniranjith720@gmail.com"
+              action="https://formsubmit.co/delightdessertsleeds@gmail.com"
               method="POST"
               style={{ display: "none" }}
             >
