@@ -99,7 +99,7 @@ export const Footer = () => {
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-primary flex-shrink-0" />
                 <a href="mailto:hello@scoopsandsips.com" className="hover:text-primary transition-colors">
-                  hello@scoopsandsips.com
+                  delightdessertsleeds@gmail.com
                 </a>
               </li>
             </ul>
